@@ -40,3 +40,24 @@ Python · PyTorch · FFmpeg · CUDA
 ## Website
 
 https://voisace.com
+
+---
+
+# Demo 2 — Real-Time AI Noise Reduction
+
+This demo showcases Voisace AI speech enhancement technology in challenging noisy environments.
+
+## Features
+
+- Real-time background noise suppression
+- Enhanced speech intelligibility
+- Low-latency AI processing
+- Optimized for communication systems
+
+## Demo Video
+
+[Watch Demo 2](./Voisace_Acoustic_AI_Noise_Reduction_Demo_02.mp4)
+
+## Preview
+
+![Demo2](./demo.png)
